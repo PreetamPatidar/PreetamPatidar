@@ -71,7 +71,7 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/preetam-patidar-5663252b9/))
+- [LinkedIn](https://www.linkedin.com/in/preetam-patidar-5663252b9/)
 
 ---
 
