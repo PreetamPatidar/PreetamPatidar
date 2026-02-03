@@ -1,80 +1,59 @@
-<p align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="120" height="120" alt="rocket emoji"/>
-</p>
+# 👋 Hi, I'm Preetam Patidar!
 
-<h1 align="center">
-  Hi, I'm Preetam Patidar!
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=380&lines=Welcome+to+my+GitHub!;Aspiring+Java+Developer;Tech+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
-</h1>
+![](https://komarev.com/ghpvc/?username=PreetamPatidar&color=blue&style=flat-square)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/preetam-patidar-5663252b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-Preetam%20Patidar-blue?style=flat-square&logo=linkedin"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=PreetamPatidar&style=flat-square" alt="profile views"/>
-</p>
+💡 **Aspiring Software Developer | Java & Python Enthusiast**
+
+I am currently pursuing **B.Tech in Computer Science and Engineering** at Sushila Devi Bansal College of Technology. I love exploring new technologies, solving real-world problems, and building creative projects that make an impact.
 
 ---
 
-## 🌟 About Me
+## 🧠 About Me
 
-- 🎓 Currently pursuing B.Tech in Computer Science & Engineering at **Sushila Devi Bansal College of Technology**.
-- 💡 Passionate about exploring the ever-evolving world of technology, with a special focus on **Java**.
-- 🛠️ I enjoy building creative projects, solving real-world problems, and constantly learning new skills to stay ahead in the tech game.
-- 🤝 Let's connect and grow together!
+- 📚 Passionate about software development with a focus on Java and Python.
+- 🚀 Always learning new tools, frameworks, and best practices.
+- 🛠️ Building projects to improve my coding skills and understanding of algorithms & problem solving.
+- 🤝 Let’s connect and grow together!
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Featured Projects
 
-| Project              | Description                                                                                 |
-|----------------------|---------------------------------------------------------------------------------------------|
-| 🐍 **Snake Game**    | Classic snake game built in Java. Navigate, eat, and beat your high score!                  |
-| 🌦️ **Weather App**  | Interactive weather application fetching real-time data for any city.                        |
+Here are some highlighted projects from my GitHub:
+
+| Project | Description |
+|---------|-------------|
+| **SoulMate** | A Python project (details coming soon!) |
+| **First_Project_snake_game** | Classic snake game built in Java 🐍 |
+| **Weather_App** | Weather application fetching real-time data using APIs 🌦️ |
+| **Django_project** | Beginner-friendly Django application |
+
+> Check out more repositories on my GitHub 👉 https://github.com/PreetamPatidar
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## ✨ Fun Fact
+## 📈 GitHub Stats
 
-<p align="center" style="font-size:1.2rem;">
-  <em>"Code is like humor. When you have to explain it, it’s bad."</em><br>
-  <strong>– Cory House</strong>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PreetamPatidar&show_icons=true&theme=tokyonight" alt="Preetam's GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PreetamPatidar&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🐍 Watch my GitHub contributions snake!
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+![Preetam’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=PreetamPatidar&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/preetam-patidar-5663252b9/)
+👉 **LinkedIn:** https://www.linkedin.com/in/preetam-patidar-5663252b9  
+👉 **GitHub:** https://github.com/PreetamPatidar  
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile! ⭐️<br/>Let's build something amazing together!
-</p>
+⭐ Thanks for stopping by! Let's build amazing things together! 🚀
