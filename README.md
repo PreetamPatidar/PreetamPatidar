@@ -26,7 +26,6 @@ Here are some highlighted projects from my GitHub:
 | **SoulMate** | A Python project (details coming soon!) |
 | **First_Project_snake_game** | Classic snake game built in Java 🐍 |
 | **Weather_App** | Weather application fetching real-time data using APIs 🌦️ |
-| **Django_project** | Beginner-friendly Django application |
 
 > Check out more repositories on my GitHub 👉 https://github.com/PreetamPatidar
 
