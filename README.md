@@ -23,7 +23,7 @@ Here are some highlighted projects from my GitHub:
 
 | Project | Description |
 |---------|-------------|
-| **SoulMate** | A Python project (details coming soon!) |
+| **SoulMate** | A Python and java project (details coming soon!) |
 | **First_Project_snake_game** | Classic snake game built in Java 🐍 |
 | **Weather_App** | Weather application fetching real-time data using APIs 🌦️ |
 
