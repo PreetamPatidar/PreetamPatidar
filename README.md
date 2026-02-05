@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=PreetamPatidar&color=blue&style=flat-square)
 
-💡 **Aspiring Software Developer | Java & Python Enthusiast**
+💡 **Aspiring Software Developer | Java Android Enthusiast**
 
 I am currently pursuing **B.Tech in Computer Science and Engineering** at Sushila Devi Bansal College of Technology. I love exploring new technologies, solving real-world problems, and building creative projects that make an impact.
 
